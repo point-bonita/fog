@@ -9,16 +9,26 @@ Member of the point-bonita collection of writings
 
 # Summary
 
-What is the difference between state socialism and state liberalism? It is not power versus liberty. It is the presumption of power against the presumption of liberty.
+>What is the difference between state socialism and state liberalism? It is not power versus liberty. It is the presumption of power against the presumption of liberty.
+>
+>... and not just a pro-forma presumption, but one which is effectively buttressed
+>
+>-- <cite> Casey Bowman</cite>
 
-... and not just a pro-forma presumption, but one which is effectively buttressed
-
->In Europe charters of liberty have been granted by power. America has set the example... of charters of power granted by liberty.
-
-James Madison - *Charters*
-
-in *Letters and Other Writings of Madison*, IV, p 467
+Facebook post - January 9, 2020
 
 ---
+
+
+>In Europe charters of liberty have been granted by power. America has set the example... of charters of power granted by liberty.
+>
+>-- <cite>James Madison - *Charters*</cite>
+
+Found in *Letters and Other Writings of Madison*, IV, p 467
+
+---
+
+
+Creator of this work: Casey Bowman
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
