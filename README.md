@@ -11,8 +11,6 @@ Member of the point-bonita collection of writings
 
 >What is the difference between state socialism and state liberalism? It is not power versus liberty. It is the presumption of power against the presumption of liberty.
 >
->... and not just a pro-forma presumption, but one which is effectively buttressed
->
 >-- <cite> Casey Bowman</cite>
 
 Facebook post - January 9, 2020
