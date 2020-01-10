@@ -15,3 +15,7 @@ What is the difference between state socialism and state liberalism? It is not p
 >In Europe charters of liberty have been granted by power. America has set the example... of charters of power granted by liberty.
 James Madison - Charters
 in Letters and Other Writings of Madison, IV, p 467
+
+---
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
