@@ -1,5 +1,5 @@
 # fog
-An Open-Source Discourse on State Liberalism
+## An Open-Source Discourse on State Liberalism
 
 ---
 
@@ -7,7 +7,7 @@ Member of the point-bonita collection of writings
 
 ---
 
-# Summary
+### Summary
 
 >What is the difference between state socialism and state liberalism? It is not power versus liberty. It is the presumption of power against the presumption of liberty.
 >
