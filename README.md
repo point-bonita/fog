@@ -14,8 +14,10 @@ What is the difference between state socialism and state liberalism? It is not p
 ... and not just a pro-forma presumption, but one which is effectively buttressed
 
 >In Europe charters of liberty have been granted by power. America has set the example... of charters of power granted by liberty.
-James Madison - Charters
-in Letters and Other Writings of Madison, IV, p 467
+
+James Madison - *Charters*
+
+in *Letters and Other Writings of Madison*, IV, p 467
 
 ---
 
