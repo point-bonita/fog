@@ -1,5 +1,5 @@
 # fog
-## An Open-Source Discourse on State Liberalism
+## In Good Kilter: An Open-Source Discourse on State Liberalism
 
 ---
 
