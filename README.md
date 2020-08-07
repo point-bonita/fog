@@ -1,5 +1,5 @@
 
-## Into Better Kilter: An Open-Source Discourse on State Liberalism
+## Fine Kilter: An Open-Source Discourse on State Liberalism
 
 ---
 
