@@ -1,5 +1,5 @@
 
-## Out of Kilter, Into Kilter: An Open-Source Discourse on State Liberalism
+## To the NAND Gates! An Open-Source Discourse on State Liberalism
 
 ---
 
