@@ -27,7 +27,10 @@ Found in *Letters and Other Writings of Madison*, IV, p 467
 
 ---
 
->Election mechanisms need to be completely transparent in the manner in which they secure the secrecy of the ballot choice by any voter together with the integrity of the sum of votes. Any software used MUST be OPEN SOURCE & any hardware KNOWN in depth to the NAND gates!
+>Election mechanisms need to be completely transparent in the manner in which they secure the secrecy of the ballot choice by any voter together with the integrity of the sum of votes. Any software used MUST be OPEN SOURCE & any hardware KNOWN in depth 
+>... to the NAND gates!
+>
+>-- <cite> Casey Bowman</cite>
 
 Twitter tweets - November 21, 2020
 
