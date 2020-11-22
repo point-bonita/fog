@@ -30,7 +30,7 @@ Found in *Letters and Other Writings of Madison*, IV, p 467
 
 Twitter tweets - November 21, 2020
 
-__
+---
 
 
 Creator of this work: **Casey Bowman**
