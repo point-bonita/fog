@@ -1,5 +1,6 @@
 
-## To the NAND Gates! An Open-Source Discourse on State Liberalism
+## To the NAND Gates
+#### An Open-Source Discourse on 21st-Century State Liberalism
 
 ---
 
