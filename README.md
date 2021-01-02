@@ -1,6 +1,6 @@
 
-## Disputable
-#### An Open-Source Discourse on 21st-Century State Liberalism
+## Grand Liberalism
+#### An Open-Source Discourse on 21st-Century State Liberalism and Disputable Conjectures on Its Future Components
 
 ---
 
