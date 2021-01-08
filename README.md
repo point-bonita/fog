@@ -1,5 +1,5 @@
 
-## Grand Liberalism
+## Open. It. Up.
 #### An Open-Source Discourse on 21st-Century State Liberalism and Disputable Conjectures on Its Future Components
 
 ---
