@@ -1,6 +1,6 @@
 
-## Open-Source Liberalism
-#### An Open-Source Discourse on 21st-Century State Liberalism and Disputable Conjectures on Its Future Components
+## To Keep on an Even Keel
+#### An Open-Source Discourse on 21st-Century State Liberalism
 
 ---
 
