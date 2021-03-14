@@ -1,5 +1,5 @@
 
-## Plain Page 
+## Plain Page Liberalism
 #### An Open-Source Discourse on 21st-Century State Liberalism
 
 ---
