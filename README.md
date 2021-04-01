@@ -1,5 +1,5 @@
 
-## Plain Page Liberalism
+## Plain Wild Liberalism
 #### An Open-Source Discourse on 21st-Century State Liberalism
 
 ---
