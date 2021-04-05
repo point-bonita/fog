@@ -23,7 +23,7 @@ Facebook post - January 9, 2020
 >
 >-- <cite>James Madison - *Charters*</cite>
 
-Found in *Letters and Other Writings of Madison*, IV, p 467
+*Letters and Other Writings of Madison*, IV, p 467
 
 ---
 
