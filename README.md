@@ -1,6 +1,6 @@
 
-## Wild Liberalism
-#### An Open-Source Discourse on 21st-Century State Liberalism
+## Liberal Liberalism
+#### An Open-Source Discourse on 21st-Century Liberalism
 
 ---
 
@@ -9,15 +9,6 @@ Member of the point-bonita collection of writings
 ---
 
 ### Summary
-
->What is the difference between state socialism and state liberalism? It is not power versus liberty. It is the presumption of power against the presumption of liberty.
->
->-- <cite> Casey Bowman</cite>
-
-Facebook post - January 9, 2020
-
----
-
 
 >In Europe charters of liberty have been granted by power. America has set the example... of charters of power granted by liberty.
 >
