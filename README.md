@@ -1,6 +1,6 @@
 
-## Liberal Liberalism
-#### An Open-Source Discourse on 21st-Century Liberalism
+## Looking for Liberalism
+#### An Open-Source Discourse on 21st-Century State Liberalism
 
 ---
 
