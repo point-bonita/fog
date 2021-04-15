@@ -1,5 +1,5 @@
 
-## Looking for Liberalism
+## Independent Liberalism
 #### An Open-Source Discourse on 21st-Century American Liberalism
 
 ---
