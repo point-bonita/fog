@@ -1,6 +1,6 @@
 
 ## Independent Liberalism
-#### An Open-Source Discourse on 21st-Century American Liberalism
+#### An Open-Source Discourse on 21st-Century American-Style Independent Liberalism
 
 ---
 
